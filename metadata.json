@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Momo-Q Food Delivery",
+  "description": "Order the best momos, burgers, and pizzas from Momo-Q (Queen's Food and Beverages). Real-time tracking, loyalty points, and seamless payments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
